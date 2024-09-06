@@ -1,0 +1,128 @@
+body{
+    background-image: url(images/chinasky.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed ;
+}
+.d1{
+    color: black;
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px black;  
+    align-items: center; 
+    display: flex;
+    justify-content: space-between;
+}
+.text1{
+    flex: none;
+}
+.redeemer{
+    border-radius: 2px;
+    width: 100px;
+    height: 100px;
+    /* margin-left: 20px; */
+}
+.d2{
+    color: black;
+    background-color: white;
+    border-radius: 4px;
+    align-items: center;
+    display: flex;
+    box-shadow: 2px 2px 5px black ;
+    justify-content: space-between;
+}
+.text2{
+    flex: none;
+}
+.tajmahal{
+    width: 100px;
+    height: 100px;
+    border-radius: 2px;
+}
+.d3{
+    color: black;
+    background-color: white;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px black;
+
+}
+.text3{
+    flex: none;
+}
+.machu{
+    height: 100px;
+    width: 100px;
+    border-radius: 2px;
+}
+.d4{
+    color: black;
+    background-color: white;
+    border-radius: 4px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    box-shadow: 2px 2px 5px black;
+}
+.text4{
+    flex: none;
+}
+.petra{
+    width: 100px;
+    height: 100px;
+    border-radius: 2px;
+}
+.d5{
+    color: black;
+    background-color: white;
+    display: flex;
+    border-radius: 4px;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 2px 2px 5px black;
+}
+.text5{
+    flex: none;
+}
+.colosseum{
+    width: 100px;
+    height: 100px;
+    border-radius: 2px;
+}
+.d6{
+    color: black;
+    background-color: white;
+    display: flex;
+    border-radius: 4px;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 2px 2px 5px black;
+}
+.text6{
+    flex: none;
+}
+.chinawall{
+    width: 100px;
+    height: 100px;
+    border-radius: 2px;
+}
+.d7{
+    color: black;
+    background-color: white;
+    display: flex;
+    border-radius: 4px;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 2px 2px 5px black;
+}
+.text7{
+    flex: none;
+}
+.chichen{
+    width: 100px;
+    height: 100px;
+    border-radius: 2px;
+}
